@@ -237,15 +237,6 @@ A landing page está publicada através do GitHub Pages:
 
 ### 🚀 [Acessar Landing Page NutriVida](https://riollymikael.github.io/landing-nutricionista/)
 
----
-
-## 📸 Preview
-
-<div align="center">
-
-  <img src="assets/preview.png" alt="Landing Page NutriVida" width="100%">
-
-</div>
 
 ---
 
@@ -277,13 +268,6 @@ A estrutura pode ser personalizada para diferentes profissionais, consultórios 
 
 ---
 
-## 👨‍💻 Autor
-
-Desenvolvido por **Riolly Mikael**.
-
-- **GitHub:** [@riollymikael](https://github.com/riollymikael)
-
----
 
 ## 📄 Licença
 
